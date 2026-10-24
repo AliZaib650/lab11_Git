@@ -1,4 +1,5 @@
 print("Hello, World!")
 
-a = 5
+a = input("Enter a number: ")
 print(a)
+
